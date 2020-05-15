@@ -30,3 +30,5 @@ Implement the program so that the following issues are fixed:
 
 - Tell the computer what *higher* and *lower* means.
 - Don't let the computer guess the same answer twice.
+
+**Note:** *There is no automatic testing for this exercise - you are responsible for writing and running your own tests!*
