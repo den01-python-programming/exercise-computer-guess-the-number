@@ -2,7 +2,7 @@
 
 Implement a program in Python which guesses a random number that the computer has chosen.
 
-**Notes: In order for the tests to pass you will have to follow the guidelines below:**
+**Hints:**
 
 - Use the string `"I guessed " + str(guess) + "."` when outputting the user's guess.
 - Input the string `You got it right!` when the answer is right.
