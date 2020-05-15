@@ -4,7 +4,7 @@ Implement a program in Python which guesses a random number that the computer ha
 
 **Hints:**
 
-- Use the string `"I guessed " + str(guess) + "."` when outputting the user's guess.
+- Use the string `"I guessed " + str(guess) + "."` when outputting the computer's guess.
 - Input the string `You got it right!` when the answer is right.
 - Input the string `Too high!` when the guess is too high.
 - Input the string `Too low!` when the guess is too low.
